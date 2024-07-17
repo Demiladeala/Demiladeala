@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Collection and Generics**
  
- 🌱 I’m currently learning **C#, ASP.NET**
+ 🌱 I’m currently learning **Rust**
 
- 💬 Ask me about **Javascript, Typescript React, C#**
+ 💬 Ask me about **Javascript, Typescript, React**
 
  ⚡ Fun fact **I code so fast, my keyboard goes on coffee breaks.**
  
