@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Collection and Generics**
+ 🔭 I’m currently working on **Myself**
  
  🌱 I’m currently learning **Rust**
 
