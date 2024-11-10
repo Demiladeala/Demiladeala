@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Myself**
  
- 🌱 I’m currently learning **Rust**
+ 🌱 I’m currently learning **Technical Writing**
 
  💬 Ask me about **Javascript, Typescript, React**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,postgres,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=dotnet,javascript,typescript,firebase,cs,nextjs,supabase,prisma,python" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs,supabase,prisma,python" /><br>
 </div>
 
 <br/>
