@@ -4,21 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oluwademilade+Ala!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Nigeria</h3>
+<h3 align="center">Frontend Engineer — e-commerce platforms & dashboards · React / Next.js / TypeScript</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **Myself**
- 
- 🌱 I’m currently learning **Technical Writing**
-
- 💬 Ask me about **Javascript, Typescript, React**
-
- ⚡ Fun fact **I code so fast, my keyboard goes on coffee breaks.**
- 
- </div>
  
 <div align="center"> 
   <a href="mailto:demiladeala@gmail.com">
