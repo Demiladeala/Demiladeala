@@ -8,13 +8,13 @@
 
 <br/>
 
-<p>
+<p align="center">
 Featured work: https://ala-one.vercel.app/ ·  https://www.joinzent.com/
 </p>
 
 <br/>
 
-<p>
+<p align="center">
 Stack: React, Next.js, TypeScript, Tailwind, Supabase
 </p>
 
