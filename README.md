@@ -4,7 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oluwademilade+Ala!;" />
 </h1>
 
-<h3 align="center">Frontend Engineer — e-commerce platforms & dashboards · React / Next.js / TypeScript</h3>
+<h3 align="center">Hi, I'm Demilade,  a Frontend engineer specializing in e-commerce storefronts and dashboards.
+
+<br/>
+Featured work: https://ala-one.vercel.app/ ·  https://www.joinzent.com/
+<br/>
+
+Stack: React, Next.js, TypeScript, Tailwind, Supabase
+
+<br/>
+</h3>
 
 <br/>
  
